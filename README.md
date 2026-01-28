@@ -4,10 +4,6 @@
 
 <h3 align="center">🚀 Passionate about building scalable solutions and mastering DSA</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dawood-abdul-basith-j&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
