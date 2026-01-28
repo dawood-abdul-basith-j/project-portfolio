@@ -11,7 +11,7 @@
 - 🎓 Computer Science and Engineering student
 - 💡 Passionate about **Data Structures & Algorithms** and **Full-Stack Development**
 - 🌱 Currently mastering **DSA**, **Web Development**, and **Problem Solving**
-- 🎯 Goal: Build production-ready applications and strengthen CS fundamentals
+- 🎯 Goal: Build production-ready applications and strengthen CS core
 - 📚 Always learning and exploring new technologies
 
 ---
