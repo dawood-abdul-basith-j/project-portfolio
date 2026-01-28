@@ -34,8 +34,6 @@ I am a Computer Science and Engineering student passionate about building scalab
 
 ## 📫 Contact
 - GitHub: https://github.com/dawood-abdul-basith-j  
-- LinkedIn: https://linkedin.com/in/your-linkedin-username  
+- LinkedIn: https://www.linkedin.com/in/dawood-abdul-basith-j-7a7851327
 
 ---
-
-⭐ Stay tuned for upcoming projects.
