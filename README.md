@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Dawood+Abdul+Basith;Aspiring+Software+Engineer;Problem+Solver+%7C+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Dawood+Abdul+Basith;Aspiring+Software+Engineer;Problem+Solver+%7C+and+Coder" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Passionate about building scalable solutions and mastering DSA</h3>
