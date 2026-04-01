@@ -1,4 +1,4 @@
-# End-to-End Digital Banking Systemm (Prime Secure Bank Management System)
+# End-to-End Digital Banking System (Prime Secure Bank Management System)
 
 This is a comprehensive Java-based digital banking system project built for a Java Mini Project (Sem 4). The application operates entirely via a Command Line Interface (CLI) and securely manages user accounts, authentications, deposits, withdrawals, and inter-account transfers.
 
