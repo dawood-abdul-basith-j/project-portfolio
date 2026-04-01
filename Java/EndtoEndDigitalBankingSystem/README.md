@@ -23,6 +23,15 @@ This is a comprehensive Java-based digital banking system project built for a Ja
 * **Custom Exceptions (`src/main/exception/`)**
   * Implemented specific routing for `AuthenticationFailedException`, `InsufficientBalanceException`, `InvalidAmountException`, and `UserNotFoundException`.
 
+## Core Object-Oriented Programming (OOP) Concepts Used
+
+* **Packages**: The project is modularized into cohesive packages (`model`, `repository`, `service`, `exception`, `util`) to group related classes and organize the codebase systematically.
+* **Abstraction & Interfaces**: Used to hide complex implementation details and expose clean, essential API contracts for repositories and services.
+* **Encapsulation**: Domain models (e.g., `User`, `Account`) use `private` fields with controlled `public` accessor methods (getters/setters) to protect internal state and ensure data integrity.
+* **Inheritance**: Implemented in domain models where specific account types (`SavingsAccount`, `CurrentAccount`) extend a base `Account` class to inherit and reuse common fields and behaviors.
+* **Polymorphism**: The application leverages method overriding so that different instances of objects (savings vs. current accounts) can uniquely implement specific rules (like processing withdrawals) while being treated uniformly as an `Account`.
+* **Custom Exception Handling**: Extending `Exception` or `RuntimeException` to model specific, predictable business-logic errors like `InsufficientBalanceException`.
+
 ## Project Structure
 
 ```text
