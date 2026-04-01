@@ -41,11 +41,28 @@ EndtoEndDigitalBankingSystem
 └── src
     ├── main                 # Source Root Directory
     │   ├── Main.java        # Central Console UI Application
-    │   ├── model            # Data models (User, Account, etc.)
-    │   ├── service          # Business logic
-    │   ├── repository       # Data access
     │   ├── exception        # Custom exceptions
+    │   │   ├── AuthenticationFailedException.java
+    │   │   ├── InsufficientBalanceException.java
+    │   │   ├── InvalidAmountException.java
+    │   │   └── UserNotFoundException.java
+    │   ├── model            # Data models
+    │   │   ├── Account.java
+    │   │   ├── CurrentAccount.java
+    │   │   ├── SavingsAccount.java
+    │   │   ├── Transaction.java
+    │   │   └── User.java
+    │   ├── repository       # Data access
+    │   │   ├── AccountRepository.java
+    │   │   ├── TransactionRepository.java
+    │   │   └── UserRepository.java
+    │   ├── service          # Business logic
+    │   │   ├── AccountService.java
+    │   │   ├── AuthService.java
+    │   │   └── TransactionService.java
     │   └── util             # Utility classes
+    │       ├── IDGenerator.java
+    │       └── InputUtil.java
     │
     └── resources
         └── config.properties # Global Configuration file
